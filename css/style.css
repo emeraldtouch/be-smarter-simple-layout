@@ -21,12 +21,34 @@ h1 {
     color: #6e7ea9;
     font-weight: 700;
     text-transform: uppercase;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.btn-primary {
+    font-size: 12px;
+    color: #fff;
+    font-weight: 700;
+    text-transform: uppercase;
+    background-color: #1085e4;
+    padding: 20px 30px;
+    border-radius: 30px;
+}
+
+.btn-secondary {
+    font-size: 12px;
+    color: #7e8bae;
+    font-weight: 700;
+    text-transform: uppercase;
+    background-color: #cbdbe8;
+    padding: 20px 30px;
+    border-radius: 30px;
 }
 
 .btn-free {
     font-weight: 400;
-    color: #fff;
-    background-color: #1085e4;
+    padding: 20px 50px;
 }
 
 .grid h2 {
